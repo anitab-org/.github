@@ -5,12 +5,12 @@ about: Create your development plans and work tasks here.
 ---
 
 ## Description
-As a [USER],
+<!--As a [USER],
 I need [TO DO THIS],
-so that I can [ACCOMPLISH THAT].
+so that I can [ACCOMPLISH THAT].-->
 
 ## Mocks
-[INSERT RELEVANT PNG FILE]
+<!--[INSERT RELEVANT PNG FILE]-->
 
 ## Acceptance Criteria
 ### Update [Required]
@@ -23,4 +23,4 @@ so that I can [ACCOMPLISH THAT].
 - [ ] Approval by 1 mentor.
 
 ## Estimation
-[INSERT NUMBER HERE] hours
+<!--[INSERT NUMBER HERE] hours-->
