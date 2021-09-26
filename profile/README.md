@@ -6,12 +6,12 @@ You can join our discussions and keep up with us on [AnitaB.org Open Source Zuli
 
 ### Ways to contribute
 
-* **Review** our projects’ pull requests!
-* **Test** our deployed apps and pull requests, and reports bugs you find.
+* **Review** our projects’ pull requests
+* **Test** our deployed apps and pull requests, and reports bugs you find
     * Here’s [our quality assurance guide](https://github.com/anitab-org/documentation/blob/master/quality-assurance.md).
-* Help maintainers **triage** and improve our issues descriptions.
+* Help maintainers **triage** and improve our issues descriptions
     * confirm and improve our bug reports
-* **Help others** contribute by answering their questions and participate on GitHub and Zulip.
+* **Help others** contribute by answering their questions and participate on GitHub and Zulip
 * Improve and create new **documentation** including our Docusaurus pages 
 * **Write automated tests** to help us with code coverage
 * Improve our **automation processes** and CI/CD pipeline
