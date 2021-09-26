@@ -1,10 +1,10 @@
-Welcome to **AnitaB.org Open Source** community!
+## 🤗 Welcome to **AnitaB.org Open Source** community!
 
 We welcome and are **OPEN TO ALL**, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products. **Our goal** is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a [friendly, safe and welcoming environment for all](https://opensource.com/article/21/8/beginner-open-source-community).
 
 You can join our discussions and keep up with us on [AnitaB.org Open Source Zulip](https://anitab-org.zulipchat.com/)! Feel free to start [#newcomers](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) and [#questions](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) streams.
 
-### Ways to contribute
+### ✨ How you can contribute
 
 * **Review** our projects’ pull requests
 * **Test** our deployed apps and pull requests, and reports bugs you find
