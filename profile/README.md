@@ -2,7 +2,7 @@
 
 We welcome and are **OPEN TO ALL**, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products. **Our goal** is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a [friendly, safe and welcoming environment for all](https://opensource.com/article/21/8/beginner-open-source-community).
 
-You can join our discussions and keep up with us on [AnitaB.org Open Source Zulip](https://anitab-org.zulipchat.com/)! Feel free to start [#newcomers](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) and [#questions](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) streams.
+You can join our discussions and keep up with us on [AnitaB.org Open Source Zulip](https://anitab-org.zulipchat.com/)! Feel free to start [#newcomers](https://anitab-org.zulipchat.com/#narrow/stream/223071-newcomers) and [#questions](https://anitab-org.zulipchat.com/#narrow/stream/223070-questions) streams and make sure to follow our [Code of Conduct](https://github.com/anitab-org/anitab-org.github.io/blob/develop/docs/code_of_conduct.md).
 
 ### ✨ How you can contribute
 
