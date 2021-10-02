@@ -17,7 +17,7 @@ You can join our discussions and keep up with us on [AnitaB.org Open Source Zuli
 * Improve our **automation processes** and CI/CD pipeline
 * Suggest **design** improvements for our apps
 * Join our **Open Sessions**. Check out our calendar ([PST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=America/Los_Angeles) || [EST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=America/New_York) || [GMT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=GMT) || [WAT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Africa/Lagos) || [IST](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Asia/Colombo) || [AEDT](https://calendar.google.com/calendar/embed?src=sh10tv3mtfve62somg9nngp9tg%40group.calendar.google.com&ctz=Australia/Sydney))
-* Contirbute to our blog [our publication on Medium](https://medium.com/anitab-org-open-source)
+* Contribute to our blog [our publication on Medium](https://medium.com/anitab-org-open-source)
 
 
 Check out our [Available issues](https://github.com/search?q=org%3Aanitab-org+is%3Aopen+label%3A%22Status%3A+Available%22+&type=issues)!
